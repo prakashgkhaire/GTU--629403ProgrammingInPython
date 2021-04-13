@@ -1,7 +1,7 @@
 # GTU - 629403 Programming In Python
 <a href="https://github.com/prakashgkhaire/GTU-629403ProgrammingInPython/blob/main/CelsiustoFahrenheit.py">1. Write a Python Program to Convert Celsius to Fahrenheit and vice–a-versa.</a><br>
 <a href="https://github.com/prakashgkhaire/GTU-629403ProgrammingInPython/blob/main/SwapTwoVariables.py">2. Write a program in python to swap two variables without using temporary variable.</a><br><br>
-<a href="">3 Write a Python Program to Convert Decimal to Binary, Octal and Hexadecimal</a><br>
+<a href="https://github.com/prakashgkhaire/GTU-629403ProgrammingInPython/blob/main/ConvertDecBinOctHex.py">3 Write a Python Program to Convert Decimal to Binary, Octal and Hexadecimal</a><br>
 <a href="">4 Write a program to make a simple calculator (using functions).</a><br>
 <a href="">5 Write a program in python to find out maximum and minimum number out of three 
 user entered number.</a><br>
