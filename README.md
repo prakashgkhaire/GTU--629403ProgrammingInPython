@@ -29,12 +29,28 @@ screen. For example, histogram ([4, 9, 7]) should print the following:<br>
 (Use recursive Function)</a><br>
 <a href="">13. Write a program in Python to implement readline, readlines, write line and writelines 
 file handling mechanisms.</a><br>
-  
-<p>
-<b>About Author :</b><br>
-
-Prakash G. Khaire is a Software Consultant & Academician with 13+ years of experience, founder of eshikshak.co.in.<br>
-WhatsApp Number : <b>+91 95104 46143</b><br>
-eMail : <b>prakashgkhaire@gmail.com</b><br>
-Linkedin : <b><a href="https://www.linkedin.com/in/prakashgkhaire/" alt="prakashgkhaire">https://www.linkedin.com/in/prakashgkhaire/</b>
-</p>
+ 
+ 
+ <table>
+  <tr>
+      <td colspan="2">
+        About Author
+      </td>
+  </tr>
+  <tr>
+    <td  colspan="2">Prakash G. Khaire is a Software Consultant & Academician with 13+ years of experience, founder of eshikshak.co.in.</td>
+  </tr>
+    <tr>
+    <td>WhatsApp Number : </td>
+     <td><b>+91 95104 46143</b></td>
+  </tr>
+   </tr>
+   <tr>
+    <td>eMail : </td>
+     <td><b>prakashgkhaire@gmail.com</b></td>
+  </tr>
+   <tr>
+    <td>Linkedin :</td>
+     <td><b><a href="https://www.linkedin.com/in/prakashgkhaire/" alt="prakashgkhaire">https://www.linkedin.com/in/prakashgkhaire/</b></td>
+  </tr>
+  </table>
