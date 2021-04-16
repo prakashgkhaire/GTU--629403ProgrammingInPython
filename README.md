@@ -38,7 +38,7 @@ file handling mechanisms.</a><br>
       </td>
   </tr>
   <tr>
-    <td  colspan="2">Prakash G. Khaire is a Software Consultant & Academician with 13+ years of experience, founder of eshikshak.co.in.</td>
+   <td  colspan="2"><b>Prakash G. Khaire</b> is a Software Consultant & Academician with 13+ years of experience, founder of eshikshak.co.in - A Learning Management System (LMS).</td>
   </tr>
     <tr>
     <td>WhatsApp Number : </td>
