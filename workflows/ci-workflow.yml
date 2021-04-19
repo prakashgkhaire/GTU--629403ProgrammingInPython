@@ -1,0 +1,39 @@
+name: Node CI
+# This file wont do us much good in this location, make sure you change the path as directed to continue!
+
+on: [push]
+name: Node CI
+
+on:
+  push:
+    # branches-ignore:
+    #   - "ci-workflow"
+    #   - "docker-workflow"
+    paths:
+      - "**Dockerfile**"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+@@ -22,7 +29,7 @@ jobs:
+    strategy:
+      matrix:
+        os: [ubuntu-lastest, windows-2016]
+        node-version: [12.x, 14.x]
+        node-version: [10, 12]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - uses: actions/download-artifact@master
+        with:
+          name: webpack artifacts
+          path: public
+      - name: npm install, and test
+        run: |
+          npm install
+          npm test
+        env:
+          CI: true
